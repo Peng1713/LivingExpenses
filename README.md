@@ -14,7 +14,6 @@
 项目代码在 `ledger-app/`。
 
 ## 本地运行（Web）
-
 ```bash
 cd ledger-app
 npm install

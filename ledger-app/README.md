@@ -10,7 +10,6 @@
 - **数据**：本地持久化 + JSON 导入/导出备份
 
 ## 本地开发
-
 ```bash
 npm install
 npm run dev
