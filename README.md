@@ -1,6 +1,6 @@
 # ledger-app
 
-一个用于日常生活记账的本地应用，主要技术栈：**React + TypeScript + Ant Design**。
+主要技术栈：**React + TypeScript + Ant Design**。
 
 ## 目录
 
